@@ -1,0 +1,8 @@
+Using TensorFlow backend.
+
+
+Model Evaluation
+('Test size: ', 272)
+('Test accuracy:', 0.8897058824)
+
+Process finished with exit code 0
